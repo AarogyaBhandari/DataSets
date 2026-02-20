@@ -1,0 +1,141 @@
+{
+    "csv_file": "data_1.csv",
+    "Strategy": "none",
+    "F1-Score": 0.6465796780458054,
+    "Precision": 0.9833333333333332,
+    "Recall": 0.483448275862069,
+    "Balanced Accuracy": 0.7416733765097148
+}{
+    "csv_file": "data_1.csv",
+    "Strategy": "under",
+    "F1-Score": 0.20319822464935627,
+    "Precision": 0.11853078204367044,
+    "Recall": 0.7151724137931035,
+    "Balanced Accuracy": 0.8179029313812756
+}{
+    "csv_file": "data_1.csv",
+    "Strategy": "over",
+    "F1-Score": 0.18232765683863442,
+    "Precision": 0.10465168878942006,
+    "Recall": 0.7151724137931035,
+    "Balanced Accuracy": 0.811865026429526
+}{
+    "csv_file": "data_1.csv",
+    "Strategy": "smote",
+    "F1-Score": 0.17848748841635254,
+    "Precision": 0.10214361985548429,
+    "Recall": 0.7151724137931035,
+    "Balanced Accuracy": 0.8105456672956894
+}{
+    "csv_file": "data_1.csv",
+    "Strategy": "weights",
+    "F1-Score": 0.1800264064827258,
+    "Precision": 0.10314162936253075,
+    "Recall": 0.7151724137931035,
+    "Balanced Accuracy": 0.811103836897041
+}{
+    "csv_file": "data_2.csv",
+    "Strategy": "none",
+    "F1-Score": 0.6714285714285715,
+    "Precision": 1.0,
+    "Recall": 0.5333333333333333,
+    "Balanced Accuracy": 0.7666666666666666
+}{
+    "csv_file": "data_2.csv",
+    "Strategy": "under",
+    "F1-Score": 0.12890037593984963,
+    "Precision": 0.07726984126984127,
+    "Recall": 0.6,
+    "Balanced Accuracy": 0.7220967574847197
+}{
+    "csv_file": "data_2.csv",
+    "Strategy": "over",
+    "F1-Score": 0.1404486036838978,
+    "Precision": 0.08111453201970442,
+    "Recall": 0.6,
+    "Balanced Accuracy": 0.7445612762871646
+}{
+    "csv_file": "data_2.csv",
+    "Strategy": "smote",
+    "F1-Score": 0.1433843228761559,
+    "Precision": 0.08256481481481481,
+    "Recall": 0.6,
+    "Balanced Accuracy": 0.746097068268932
+}{
+    "csv_file": "data_2.csv",
+    "Strategy": "weights",
+    "F1-Score": 0.1398307279901208,
+    "Precision": 0.08065476190476191,
+    "Recall": 0.6,
+    "Balanced Accuracy": 0.744566456024034
+}{
+    "csv_file": "data_3.csv",
+    "Strategy": "none",
+    "F1-Score": 0.8584171163824165,
+    "Precision": 0.8613167470436226,
+    "Recall": 0.8562894834633964,
+    "Balanced Accuracy": 0.9201113305493223
+}{
+    "csv_file": "data_3.csv",
+    "Strategy": "under",
+    "F1-Score": 0.790896636415963,
+    "Precision": 0.6723490161744934,
+    "Recall": 0.9604561501300634,
+    "Balanced Accuracy": 0.9531162226727918
+}{
+    "csv_file": "data_3.csv",
+    "Strategy": "over",
+    "F1-Score": 0.7903884099148042,
+    "Precision": 0.6717108523950532,
+    "Recall": 0.9604561501300634,
+    "Balanced Accuracy": 0.9530045221608805
+}{
+    "csv_file": "data_3.csv",
+    "Strategy": "smote",
+    "F1-Score": 0.7910369643667012,
+    "Precision": 0.6726692929825143,
+    "Recall": 0.9604561501300634,
+    "Balanced Accuracy": 0.9531160048116654
+}{
+    "csv_file": "data_3.csv",
+    "Strategy": "weights",
+    "F1-Score": 0.7910253141771608,
+    "Precision": 0.6726391349930646,
+    "Recall": 0.9604561501300634,
+    "Balanced Accuracy": 0.9531160359346835
+}{
+    "csv_file": "data_4.csv",
+    "Strategy": "none",
+    "F1-Score": 0.1598889403348467,
+    "Precision": 0.9313760691305794,
+    "Recall": 0.08756891509660099,
+    "Balanced Accuracy": 0.5429045867928892
+}{
+    "csv_file": "data_4.csv",
+    "Strategy": "under",
+    "F1-Score": 0.39648955536328245,
+    "Precision": 0.2922549703232699,
+    "Recall": 0.6164545280214776,
+    "Balanced Accuracy": 0.6164227432927554
+}{
+    "csv_file": "data_4.csv",
+    "Strategy": "over",
+    "F1-Score": 0.3967902109120833,
+    "Precision": 0.29192823043720767,
+    "Recall": 0.6193921089218083,
+    "Balanced Accuracy": 0.6166975531548768
+}{
+    "csv_file": "data_4.csv",
+    "Strategy": "smote",
+    "F1-Score": 0.3938264245664763,
+    "Precision": 0.2902999644869685,
+    "Recall": 0.6125473416750564,
+    "Balanced Accuracy": 0.6139041788142439
+}{
+    "csv_file": "data_4.csv",
+    "Strategy": "weights",
+    "F1-Score": 0.39643134309231093,
+    "Precision": 0.2918986980356931,
+    "Recall": 0.617928711827029,
+    "Balanced Accuracy": 0.6164061453130578
+}
