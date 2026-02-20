@@ -62,6 +62,7 @@ def evaluate_strategy(csv_file, strategy):
     )
 
     result = {
+        "data_file": csv_file,
         "Strategy": strategy,
         "R²": float(cv_results["test_r2"].mean()),
         "MSE": float(-cv_results["test_neg_mean_squared_error"].mean()),
@@ -79,4 +80,5 @@ if __name__ == "__main__":
     result = evaluate_strategy(csv_file=filename, strategy="ordinal")
     print(result)
     with open("result.txt", "a",encoding="utf-8") as f:
+
         json.dump(result, f, indent=4, ensure_ascii=False)
