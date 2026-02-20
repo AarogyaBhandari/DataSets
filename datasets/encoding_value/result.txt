@@ -1,19 +1,23 @@
 {
+    "data_file": "data_1.csv",
     "Strategy": "ordinal",
     "R²": 0.9392737842957345,
     "MSE": 34325469.99985919,
     "MAE": 5099.964989607928
 }{
+    "data_file": "data_1.csv",
     "Strategy": "onehot",
     "R²": 0.939166171648524,
     "MSE": 34388762.10175439,
     "MAE": 5103.17969228495
 }{
+    "data_file": "data_2.csv",
     "Strategy": "onehot",
     "R²": 0.9471732137795967,
     "MSE": 58746113.020941876,
     "MAE": 6306.879457243182
 }{
+    "data_file": "data_2.csv",
     "Strategy": "ordinal",
     "R²": 0.1628187574459387,
     "MSE": 933459416.0243438,
